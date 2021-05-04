@@ -7,12 +7,5 @@
     "minimumCoreVersion": "0.5.0",
     "scripts": [
         "scripts/playlister.js"
-    ],
-    "authors": [
-        {
-            "name": "Alan Parker",
-            "email": "",
-            "url": ""
-        }
     ]
 }
