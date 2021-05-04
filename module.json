@@ -1,8 +1,18 @@
 {
-    "name"               : "",
-    "title"              : "",
-    "description"        : "",
-    "author"             : "",
-    "version"            : "",
-    "minimumCoreVersion" : ""
+    "name": "",
+    "title": "",
+    "description": "",
+    "author": "",
+    "version": "",
+    "minimumCoreVersion": "",
+    "scripts": [
+        "scripts/main.js"
+    ],
+    "authors": [
+        {
+            "name": "Alan Parker",
+            "email": "",
+            "url": ""
+        }
+    ]
 }
