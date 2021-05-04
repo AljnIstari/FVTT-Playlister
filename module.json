@@ -6,7 +6,7 @@
     "version": "",
     "minimumCoreVersion": "",
     "scripts": [
-        "scripts/main.js"
+        "scripts/playlister.js"
     ],
     "authors": [
         {
